@@ -1,2 +1,2 @@
 # AssociativeMemories
-This repo is underconstruction until publishcation.
+This repo is under construction until publishcation.
